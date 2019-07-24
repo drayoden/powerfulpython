@@ -1,1 +1,6 @@
 PowerfulPython.pdf
+bin/
+lib/
+share/
+include/
+lib64
