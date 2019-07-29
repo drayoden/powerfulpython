@@ -1,6 +1,3 @@
 PowerfulPython.pdf
-bin/
-lib/
-share/
-include/
-lib64
+__pycache__/
+.gitignore
